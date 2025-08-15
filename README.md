@@ -1,4 +1,4 @@
-# 🌍 Donation+ Website
+# 🌍 Donation_Website
 
 ## 📌 Overview
 The **Donation+ Website** is a static HTML and CSS-based platform that promotes charitable donations and fundraising campaigns.  
@@ -24,4 +24,4 @@ The website emphasizes **simplicity**, **speed**, and **accessibility**, ensurin
 
 ---
 
-## 📂 Project Structure
+
